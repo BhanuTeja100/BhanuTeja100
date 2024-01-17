@@ -1,4 +1,4 @@
-https://res.cloudinary.com/dan8ae5gs/image/upload/v1705491622/samples/Portfolio/odma6zvo6ldluwomrgx3.gif
+https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif
 ### Hi there 👋 Welcome my Programming World! 
 
 <!--
