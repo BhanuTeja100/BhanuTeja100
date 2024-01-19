@@ -1,5 +1,7 @@
-<img src = "https://res.cloudinary.com/dan8ae5gs/image/upload/v1705696990/portfolio/vnj0imrshrbmbhlmevzb.png"> </img>
+<img id="programming" src = "https://res.cloudinary.com/dan8ae5gs/image/upload/v1705696990/portfolio/vnj0imrshrbmbhlmevzb.png" width="300" height="300"> </img>
 ### Hi there 👋 Welcome my Programming World! 
+
+
 
 <!--
 **BhanuTeja100/BhanuTeja100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
