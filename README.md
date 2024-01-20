@@ -34,9 +34,10 @@
 
 
 <br>
-
+<p align="center"> <img align="center" src="https://github.com/BhanuTeja100/BhanuTeja100/assets/88223893/81c163e4-7bf5-4e0a-8c53-f2eb8974ac6d" width="400px" height="400px"/></p>
 <h1 align="center"> AND A LOT IS....</h1>
 <p align="center"> <img align="center" src="https://github.com/BhanuTeja100/BhanuTeja100/assets/88223893/1c1ba686-e0b8-4469-8585-6d3a92a5f6e7" width="200px" height="200px"/></p>
+
 
 <br>
 <br>
