@@ -12,7 +12,7 @@
 
 - 📫 How to reach me [...📩...](mailto:bhanuteja1001@gmail.com)
 
-- 📄 Know about my experiences [🕵️](https://drive.google.com/file/d/1FnonLezhuCUAN4MTOYguRKddt0ATuBHD/view?usp=sharing)
+- 📄 Know about my me [🕵️](https://bhanuteja100.github.io/BhanuTeja_Portfolio/)
 
 - ⚡ Fun fact **My favorite algorithm? The one that turns coffee into code. ☕💻**
 
